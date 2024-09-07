@@ -1,7 +1,5 @@
 # Effective Message Hiding with Order-Preserving Mechanisms
 
-Code is under internal approval process. Coming soon.
-
 Official implementation of "Effective Message Hiding with Order-Preserving Mechanisms" (BMVC 2024) [[Arxiv](https://arxiv.org/abs/2402.19160)].
 
 Our paper introduces a new message-hiding model named **Stegaformer**. We designed this model to achieve very high recovery accuracy (greater than 99.9%) while also maintaining leading image quality. The code allows users to reproduce and extend the results reported in the study. Please cite the paper above when reporting, reproducing, or extending the results.
